@@ -1,0 +1,26 @@
+{
+  "name": "testbackendrepo1",
+  "version": "1.0.0",
+  "description": "changes on commit 1\r changes done on commit 2\r changes on commit 3\r add name to commit",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lhtpavankumara/testBackendRepo1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "forever": "^1.0.0",
+    "moment": "^2.27.0",
+    "mongoose": "^5.7.1",
+    "nodemon": "^1.19.2"
+  },
+  "bugs": {
+    "url": "https://github.com/lhtpavankumara/testBackendRepo1/issues"
+  },
+  "homepage": "https://github.com/lhtpavankumara/testBackendRepo1#readme"
+}
